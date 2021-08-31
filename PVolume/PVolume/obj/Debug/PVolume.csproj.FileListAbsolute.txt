@@ -1,0 +1,10 @@
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\bin\Debug\PVolume.exe.config
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\bin\Debug\PVolume.exe
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\bin\Debug\PVolume.pdb
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\obj\Debug\PVolume.csprojAssemblyReference.cache
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\obj\Debug\PVolume.csproj.CoreCompileInputs.cache
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\obj\Debug\PVolume.exe
+C:\Users\Avsaknad\Documents\Fatec\2-2021\LP II\LP2-temp\PVolume\PVolume\obj\Debug\PVolume.pdb
